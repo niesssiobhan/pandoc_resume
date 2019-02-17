@@ -12,24 +12,24 @@ Possess wide range of hard and soft skills and character traits ranging from out
 
 ----
 
-Projects
+Education
 ---------
 
 2018-2019 
-|   **Certificate - Advanced Software Development in Full-Stack JavaScript**| Code Fellows | (Seattle, WA)
+|   **Certificate - Advanced Software Development in Full-Stack JavaScript** | Code Fellows | (Seattle, WA)
 
 2011-2012
-|   **Engineering**| Everett Community College | (Everett, WA)
+|   **Engineering** | Everett Community College | (Everett, WA)
 
 2008-2011
-|   **High School Dipolma**| Woodinville High School | (Woodinville, WA)
+|   **High School Dipolma** | Woodinville High School | (Woodinville, WA)
 
 
 Experience
 ----------
 
 2011-2015
-|   **Microsoft-Run Studios:**| Systems Engineer | (Redmond, WA)
+|   **Microsoft-Run Studios** | Systems Engineer | (Redmond, WA)
 
 * Planned, implemented, installed, operated and maintained systems hardware and software applications
 * Provided hardware/software engineering support utilizing object-oriented programming and client/server apps
@@ -37,7 +37,7 @@ Experience
 * Installed and implemented new programs, modules, servers, hardware, network equipment when necessary to upgrade, improve resources or increase compatibility
 
 2014-2018
-|   **Independently Contracted:**| Child Care Services Provider and Household Manager | (Kenmore, WA)
+|   **Independently Contracted** | Child Care Services Provider and Household Manager | (Kenmore, WA)
 
 * Design, plan, and implement tailored educational activities/programs catering to the development of 4 children
 * Create and implement developmentally-appropriate curriculums that address individual learning styles
@@ -45,7 +45,7 @@ Experience
 * Utilize stress management techniques to maintain an efficient and calm environment that promotes emotional health
 * Expertly manage and maintain household inventory and schedule, ensuring smooth flow of children’s lives
 
-Technical Experience
+Technical Experience / Projects
 --------------------
 
 **Space Rover** 
