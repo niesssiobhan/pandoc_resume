@@ -1,11 +1,10 @@
 Siobhan Niess
-> Software Engineer /
-> Seattle, WA /
-> <niesssiobhan@live.com> /
-> Mobile contact: 206-552-1064 /
-> [linkedin](linkedin.com/in/siobhan-niess) /
-> [github]github.com/niesssiobhan
-============
+> Software Engineer<br/>
+> Seattle, WA<br/>
+> <niesssiobhan@live.com><br/>
+> Mobile contact: 206-552-1064<br/>
+> [linkedin](linkedin.com/in/siobhan-niess)<br/>
+> [github](github.com/niesssiobhan)
 
 ----
 
@@ -49,20 +48,20 @@ Experience
 Technical Experience
 --------------------
 
-spacerover.tech 
-|   **Space Rover:**| github.com/hcherewaty/space_rover | (2018)
+**Space Rover** 
+|   [space rover link](spacerover.tech) | [space rover/github](github.com/hcherewaty/space_rover) | (2018)
 
     * Fun and educational space web and mobile application
     * Education way to learn more facts about our surrounding planets and select few celestial bodies
 
-atnote (Open Source: npmjs.com/package/atnote)
-|   **AtNote:**| github.com/AtNote | (2019)
+**AtNote**
+|   [atnote link](npmjs.com/package/atnote) | [github/AtNote](github.com/AtNote) | Open Source | (2019)
 
     * Created to help users take notes while they are in their terminal with ease
     * Allows users to multitask between note taking and writing code in a non-intrusive process
 
-niesssiobhan.github.io/packing-planner/ link
-|   **Packing Planner:**| github.com/niesssiobhan/packing-planne |(2018)
+**Packing Planner**
+|   [packing planner link](niesssiobhan.github.io/packing-planner/ link) | [packing planner/github](github.com/niesssiobhan/packing-planner) |(2018)
 
     * Web application used to keep you organized for a trip or vacation
     * Custom user packing check off list
