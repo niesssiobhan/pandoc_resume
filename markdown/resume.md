@@ -1,100 +1,75 @@
-Johnny Coder
+Siobhan Niess
+> Software Engineer
+> Seattle, WA
+> <niesssiobhan@live.com>
+> Mobile contact: 206-552-1064
+> <linkedin.com/in/siobhan-niess>
+> <github.com/niesssiobhan>
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+Possess wide range of hard and soft skills and character traits ranging from outstanding communication, an excellent worth ethic,  attention to detail, and the ability to solve complex problems (individually and as a team member). Possess ability to perform calmly under pressure. Experienced in the software language of JavaScript. 
 
 ----
 
-Education
+Projects
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018-2019 
+:   **Certificate - Advanced Software Development in Full-Stack JavaScript**; Code Fellows (Seattle, WA)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2011-2012
+:   **Engineering**; Everett Community College (Everett, WA)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2008-2011
+:   **High School Dipolma**; Woodinville High School (Woodinville, WA)
 
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2011-2015
+:   **Microsoft-Run Studios:**; Systems Engineer (Redmond, WA)
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Planned, implemented, installed, operated and maintained systems hardware and software applications
+* Provided hardware/software engineering support utilizing object-oriented programming and client/server apps
+* Evaluated customer and product requirements to develop total systems solutions within time and cost constraints
+* Installed and implemented new programs, modules, servers, hardware, network equipment when necessary to upgrade, improve resources or increase compatibility
 
-* First item
+2014-2018
+:   **Independently Contracted:**; Child Care Services Provider and Household Manager (Kenmore, WA)
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
+* Design, plan, and implement tailored educational activities/programs catering to the development of 4 children
+* Create and implement developmentally-appropriate curriculums that address individual learning styles
+* Exhibit mature judgement and flexibility in adapting schedule to needs of children
+* Utilize stress management techniques to maintain an efficient and calm environment that promotes emotional health
+* Expertly manage and maintain household inventory and schedule, ensuring smooth flow of children’s lives
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+spacerover.tech 
+:   **Space Rover:**; github.com/hcherewaty/space_rover (2018)
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Fun and educational space web and mobile application
+    * Education way to learn more facts about our surrounding planets and select few celestial bodies
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+atnote (Open Source: npmjs.com/package/atnote)
+:   **AtNote:**; github.com/AtNote (2019)
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+    * Created to help users take notes while they are in their terminal with ease
+    * Allows users to multitask between note taking and writing code in a non-intrusive process
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+niesssiobhan.github.io/packing-planner/ link
+:   **Packing Planner:**; github.com/niesssiobhan/packing-planne (2018)
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+    * Web application used to keep you organized for a trip or vacation
+    * Custom user packing check off list
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+Technical Skills
+:   **Languages:** JavaScript server-side, JavaScript client-side, HTML5, CSS, SQL, MongoDB
 
-[ref]: https://github.com/githubuser/superlongprojectname
+:   **Tools:** React, React-Native, Git, GitHub, VS Code, REST APIs, Node.js, SCSS,  JSDoc, Redux, Socket.IO, ES6, Heroku
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+:   **Operating System:** Windows, Linux
