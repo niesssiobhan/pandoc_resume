@@ -1,10 +1,10 @@
 Siobhan Niess
-> Software Engineer
-> Seattle, WA
-> <niesssiobhan@live.com>
-> Mobile contact: 206-552-1064
-> <linkedin.com/in/siobhan-niess>
-> <github.com/niesssiobhan>
+> Software Engineer /
+> Seattle, WA /
+> <niesssiobhan@live.com> /
+> Mobile contact: 206-552-1064 /
+> [linkedin](linkedin.com/in/siobhan-niess) /
+> [github]github.com/niesssiobhan
 ============
 
 ----
@@ -17,20 +17,20 @@ Projects
 ---------
 
 2018-2019 
-:   **Certificate - Advanced Software Development in Full-Stack JavaScript**; Code Fellows (Seattle, WA)
+|   **Certificate - Advanced Software Development in Full-Stack JavaScript**| Code Fellows | (Seattle, WA)
 
 2011-2012
-:   **Engineering**; Everett Community College (Everett, WA)
+|   **Engineering**| Everett Community College | (Everett, WA)
 
 2008-2011
-:   **High School Dipolma**; Woodinville High School (Woodinville, WA)
+|   **High School Dipolma**| Woodinville High School | (Woodinville, WA)
 
 
 Experience
 ----------
 
 2011-2015
-:   **Microsoft-Run Studios:**; Systems Engineer (Redmond, WA)
+|   **Microsoft-Run Studios:**| Systems Engineer | (Redmond, WA)
 
 * Planned, implemented, installed, operated and maintained systems hardware and software applications
 * Provided hardware/software engineering support utilizing object-oriented programming and client/server apps
@@ -38,7 +38,7 @@ Experience
 * Installed and implemented new programs, modules, servers, hardware, network equipment when necessary to upgrade, improve resources or increase compatibility
 
 2014-2018
-:   **Independently Contracted:**; Child Care Services Provider and Household Manager (Kenmore, WA)
+|   **Independently Contracted:**| Child Care Services Provider and Household Manager | (Kenmore, WA)
 
 * Design, plan, and implement tailored educational activities/programs catering to the development of 4 children
 * Create and implement developmentally-appropriate curriculums that address individual learning styles
@@ -50,26 +50,28 @@ Technical Experience
 --------------------
 
 spacerover.tech 
-:   **Space Rover:**; github.com/hcherewaty/space_rover (2018)
+|   **Space Rover:**| github.com/hcherewaty/space_rover | (2018)
 
     * Fun and educational space web and mobile application
     * Education way to learn more facts about our surrounding planets and select few celestial bodies
 
 atnote (Open Source: npmjs.com/package/atnote)
-:   **AtNote:**; github.com/AtNote (2019)
+|   **AtNote:**| github.com/AtNote | (2019)
 
     * Created to help users take notes while they are in their terminal with ease
     * Allows users to multitask between note taking and writing code in a non-intrusive process
 
 niesssiobhan.github.io/packing-planner/ link
-:   **Packing Planner:**; github.com/niesssiobhan/packing-planne (2018)
+|   **Packing Planner:**| github.com/niesssiobhan/packing-planne |(2018)
 
     * Web application used to keep you organized for a trip or vacation
     * Custom user packing check off list
 
-Technical Skills
-:   **Languages:** JavaScript server-side, JavaScript client-side, HTML5, CSS, SQL, MongoDB
+Technical Skills 
+-----------------
 
-:   **Tools:** React, React-Native, Git, GitHub, VS Code, REST APIs, Node.js, SCSS,  JSDoc, Redux, Socket.IO, ES6, Heroku
+   **Languages:** JavaScript server-side, JavaScript client-side, HTML5, CSS, SQL, MongoDB
 
-:   **Operating System:** Windows, Linux
+   **Tools:** React, React-Native, Git, GitHub, VS Code, REST APIs, Node.js, SCSS,  JSDoc, Redux, Socket.IO, ES6, Heroku
+
+   **Operating System:** Windows, Linux
