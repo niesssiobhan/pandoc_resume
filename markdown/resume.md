@@ -1,11 +1,11 @@
-Siobhan Niess
+#Siobhan Niess
 --------------
 > Software Engineer<br/>
 > Seattle, WA<br/>
 > <niesssiobhan@live.com><br/>
 > Mobile contact: 206-552-1064<br/>
-> [linkedin](linkedin.com/in/siobhan-niess)<br/>
-> [github](github.com/niesssiobhan)
+> [Linkedin](linkedin.com/in/siobhan-niess)<br/>
+> [GitHub](github.com/niesssiobhan)
 
 ----
 
